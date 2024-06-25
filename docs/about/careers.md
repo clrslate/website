@@ -24,7 +24,7 @@ We understand the importance of work-life balance and strive to create a flexibl
 
 ### How to Apply
 
-If you are interested in joining our team, please send your resume and a cover letter to [careers@clrslate.com](mailto:careers@clrslate.com). Be sure to include the position you are applying for in the subject line.
+If you are interested in joining our team, please send your resume and a cover letter to [careers@clrslate.io](mailto:careers@clrslate.io). Be sure to include the position you are applying for in the subject line.
 
 ---
 
