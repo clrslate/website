@@ -1,5 +1,7 @@
 site_name: ClrSlate Tech Labs
 site_author: Piyush Rathi
+plugins:
+  - social
 theme:
   name: material
   logo: assets/logo.png

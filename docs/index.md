@@ -1,4 +1,6 @@
 ---
+title: Simplifying cloud adoption
+description: Comprehensive, Self-Hosted, Cloud-Agnostic Platform as a Service (PaaS) with Integrated DevOps Tooling 
 hide:
   - navigation
   - toc

@@ -26,7 +26,7 @@ Interested in joining the ClrSlate team? Check out our [Careers](careers.md) pag
 
 ### Headquarters
 
-**ClrSlate Tech Labs**  
+**ClrSlate Tech Labs Private Limited**  
 HSR Layout, Bangalore  
 Karnataka, India 560001    
 Phone: [+91-8879250574](tel:+918879250574)
