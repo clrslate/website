@@ -18,9 +18,32 @@ hide:
 
 ---
 
-### Why Choose ClrSlate?
+## Why Choose ClrSlate?
 
-- **Flexibility:** Our cloud-agnostic solutions provide unmatched flexibility for deploying Kubernetes clusters.
-- **Scalability:** Scale your operations effortlessly with our robust infrastructure and tools.
-- **Security and Compliance:** Ensure your platform adheres to industry standards and regulatory requirements.
-- **Comprehensive Support:** Our dedicated support team is here to help you optimize performance and security.
+<div class="grid cards" markdown>
+
+-   :material-stretch-to-page-outline:{ .lg .middle } __Flexibility__
+
+    ---
+
+    Our cloud-agnostic solutions provide unmatched flexibility for deploying Kubernetes clusters.
+
+-   :material-scale-balance:{ .lg .middle } __Scalability__
+
+    ---
+
+    Scale your operations effortlessly with our robust infrastructure and tools.
+
+-   :material-shield-check-outline:{ .lg .middle } __Security and Compliance__
+
+    ---
+
+    Ensure your platform adheres to industry standards and regulatory requirements.
+
+-   :material-help-circle-outline:{ .lg .middle } __Comprehensive Support__
+
+    ---
+
+    Our dedicated support team is here to help you optimize performance and security.
+
+</div>

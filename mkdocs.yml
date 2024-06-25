@@ -36,6 +36,7 @@ theme:
 nav:
   - Home: index.md
   - Product:
+      - product/index.md
       - "Cloud Agnostic and Self-Hosted Kubernetes Solution": product/cloud_agnostic_kubernetes.md
       - "Integrated DevOps Tooling": product/integrated_devops_tooling.md
       - "Multi-Tenancy and Cost Accountability": product/multi_tenancy_cost_accountability.md
@@ -49,10 +50,18 @@ nav:
       - "Compliance and Governance": product/compliance_governance.md
       - "Observability and Monitoring": product/observability_monitoring.md
   - About Us:
-      - "Contact Us": about/contact.md
+      - about/index.md
       - "Our Mission": about/mission.md
       - Careers: about/careers.md
-
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      title: On this page
+      permalink: true
 extra:
   generator: false
   social:
@@ -61,3 +70,5 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:info@clrslate.io
 copyright: Copyright &copy; 2024 ClrSlate Tech Labs Private Limited
+extra_css:
+  - stylesheets/extra.css

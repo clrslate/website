@@ -1,0 +1,12 @@
+p:has(> a.right) {
+  text-align: right;
+}
+
+.md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card{
+  border-radius: .4rem;
+}
+
+.md-typeset .grid{
+  margin: 2em 0;
+  grid-gap: .6rem;
+}
