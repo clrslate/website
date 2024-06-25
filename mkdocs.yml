@@ -35,6 +35,22 @@ theme:
     - announce.dismiss
 nav:
   - Home: index.md
+  - Product:
+      - "Cloud Agnostic and Self-Hosted Kubernetes Solution": product/cloud_agnostic_kubernetes.md
+      - "Integrated DevOps Tooling": product/integrated_devops_tooling.md
+      - "Multi-Tenancy and Cost Accountability": product/multi_tenancy_cost_accountability.md
+      - "Application Blueprints": product/application_blueprints.md
+      - "Marketplace": product/marketplace.md
+      - "Backup and Recovery": product/backup_recovery.md
+      - "Developer Portal with Backstage": product/developer_portal_backstage.md
+      - "Infrastructure as Code (IaC) with Terraform": product/iac_terraform.md
+      - "Secrets Management": product/secrets_management.md
+      - "Cost Management and Accountability": product/cost_management_accountability.md
+      - "Compliance and Governance": product/compliance_governance.md
+      - "Observability and Monitoring": product/observability_monitoring.md
+  - About Us:
+      - "Contact Us": about/contact.md
+      - "Our Mission": about/mission.md
 
 extra:
   generator: false
