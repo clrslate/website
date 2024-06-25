@@ -8,7 +8,7 @@ hide:
 
 > Explore the comprehensive features and capabilities of ClrSlate Tech Labs. Our platform provides a wide range of solutions to simplify cloud adoption, enhance platform engineering, and streamline DevOps processes.
 
-<div class="grid cards" markdown>
+<div class="grid cards grid-wide" markdown>
 
 -   :material-cloud-outline:{ .lg .middle } __Cloud Agnostic, Self-Hosted Kubernetes__
 

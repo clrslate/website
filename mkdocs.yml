@@ -2,6 +2,7 @@ site_name: ClrSlate Tech Labs
 site_author: Piyush Rathi
 plugins:
   - social
+  - search
 theme:
   name: material
   logo: assets/logo.png
@@ -37,20 +38,20 @@ theme:
     - announce.dismiss
 nav:
   - Home: index.md
-  - Product:
-      - product/index.md
-      - "Cloud Agnostic and Self-Hosted Kubernetes Solution": product/cloud_agnostic_kubernetes.md
-      - "Integrated DevOps Tooling": product/integrated_devops_tooling.md
-      - "Multi-Tenancy and Cost Accountability": product/multi_tenancy_cost_accountability.md
-      - "Application Blueprints": product/application_blueprints.md
-      - "Marketplace": product/marketplace.md
-      - "Backup and Recovery": product/backup_recovery.md
-      - "Developer Portal with Backstage": product/developer_portal_backstage.md
-      - "Infrastructure as Code (IaC) with Terraform": product/iac_terraform.md
-      - "Secrets Management": product/secrets_management.md
-      - "Cost Management and Accountability": product/cost_management_accountability.md
-      - "Compliance and Governance": product/compliance_governance.md
-      - "Observability and Monitoring": product/observability_monitoring.md
+  - Offerings:
+      - offerings/index.md
+      - "Cloud Agnostic and Self-Hosted Kubernetes Solution": offerings/cloud_agnostic_kubernetes.md
+      - "Integrated DevOps Tooling": offerings/integrated_devops_tooling.md
+      - "Multi-Tenancy and Cost Accountability": offerings/multi_tenancy_cost_accountability.md
+      - "Application Blueprints": offerings/application_blueprints.md
+      - "Marketplace": offerings/marketplace.md
+      - "Backup and Recovery": offerings/backup_recovery.md
+      - "Developer Portal with Backstage": offerings/developer_portal_backstage.md
+      - "Infrastructure as Code (IaC) with Terraform": offerings/iac_terraform.md
+      - "Secrets Management": offerings/secrets_management.md
+      - "Cost Management and Accountability": offerings/cost_management_accountability.md
+      - "Compliance and Governance": offerings/compliance_governance.md
+      - "Observability and Monitoring": offerings/observability_monitoring.md
   - About Us:
       - about/index.md
       - "Our Mission": about/mission.md

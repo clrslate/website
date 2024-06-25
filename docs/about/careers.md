@@ -34,7 +34,7 @@ We also offer internship and graduate programs for students and recent graduates
 
 ### Contact Us
 
-For more information about career opportunities at ClrSlate Tech Labs, please [Contact Us](./contact.md).
+For more information about career opportunities at ClrSlate Tech Labs, please [Contact Us](./index.md).
 
 ---
 

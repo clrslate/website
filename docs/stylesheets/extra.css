@@ -10,3 +10,13 @@ p:has(> a.right) {
   margin: 2em 0;
   grid-gap: .6rem;
 }
+
+
+.md-typeset .grid-wide{
+  grid-template-columns: repeat(auto-fit,minmax(min(100%,20rem),1fr));
+  grid-gap: .8rem;
+}
+
+.md-typeset .lg{
+  margin: 0px 10px 0px 0px;
+}
