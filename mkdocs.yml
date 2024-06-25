@@ -51,6 +51,7 @@ nav:
   - About Us:
       - "Contact Us": about/contact.md
       - "Our Mission": about/mission.md
+      - Careers: about/careers.md
 
 extra:
   generator: false
