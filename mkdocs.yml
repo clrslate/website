@@ -1,3 +1,49 @@
-site_name: ClrSlate
+site_name: ClrSlate Tech Labs
+site_author: Piyush Rathi
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  custom_dir: overrides
+  palette: 
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/theme-light-dark
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.path
+    - navigation.footer
+    - navigation.indexes
+    - announce.dismiss
+nav:
+  - Home: index.md
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/clrslate
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/clrslate
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:info@clrslate.io
+copyright: Copyright &copy; 2024 ClrSlate Tech Labs Private Limited
