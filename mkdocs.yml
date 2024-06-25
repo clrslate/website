@@ -55,8 +55,6 @@ nav:
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/clrslate
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/clrslate
     - icon: fontawesome/solid/paper-plane
